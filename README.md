@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Haydudegamer360
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Java, JavaScript, CSS, C++, HTML, Python
+- I know Python, Lua, HTML/CSS
+- 🌱 I’m currently learning Java, JavaScript, C++.
 - 💞️ I’m looking to collaborate on Idk
 - 📫 How to reach me 
 Discord: HaydudetheMineblox#5310
